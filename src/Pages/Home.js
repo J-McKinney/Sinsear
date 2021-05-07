@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Wrapper from "../Components/Wrapper/Wrapper";
 import Container from "../Components/Container/Container";
+import Carousel from "../Components/Carousel/Carousel";
 
 class Home extends Component {
   render() {
@@ -9,6 +10,7 @@ class Home extends Component {
         <Wrapper>
           <Container>
             <h1>Home</h1>
+            <Carousel />
           </Container>
         </Wrapper>
       </>
