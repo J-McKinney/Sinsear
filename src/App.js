@@ -33,7 +33,7 @@ import styling from "./App.css";
 function App() {
   return (
     <>
-      <div className={styling.wrapper}>
+      <div className={styling.App}>
         <Router>
           <Switch>
             <Route path="/" exact component={About} />

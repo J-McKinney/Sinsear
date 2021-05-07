@@ -1,0 +1,10 @@
+.container {
+  height: 100%;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  /* flex-flow: row wrap; */
+  align-content: flex-start;
+  overflow: auto;
+  padding: 0 20px 0 20px;
+}
