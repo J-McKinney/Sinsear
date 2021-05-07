@@ -2,7 +2,7 @@
     {
         "id": 1,
         "drinkName": "Aviation",
-        "image": "",
+        "image": "src/assets/Aviation.jpg",
         "ingredient1": "2oz Gin",
         "ingredient2": " 1/2oz (or less) Maraschino",
         "ingredient3": "1/2oz Creme de Violette",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "drinkName": "Deoch Te",
-        "image": "",
+        "image": "src/assets/DeochTe.jpg",
         "ingredient1": "2oz Gin",
         "ingredient2": "1 Bar Spoon of Honey",
         "ingredient3": "1 Lemon Wedge",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "drinkName": "Gin Basil Smash",
-        "image": "",
+        "image": "src/assets/GinBasil.jpg",
         "ingredient1": "1 1/2oz Gin",
         "ingredient2": "1/2oz Simple Syrup",
         "ingredient3": "1/2oz Lemon Juice",
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "drinkName": "La Poire",
-        "image": "",
+        "image": "src/assets/LaPoire.jpg",
         "ingredient1": "2oz Whiskey",
         "ingredient2": "1/2oz Spiced Pears",
         "ingredient3": "1/2oz Elderflower Liquor",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "drinkName": "Last Word",
-        "image": "",
+        "image": "src/assets/LastWord.jpg",
         "ingredient1": "3/4oz Green Chartreuse",
         "ingredient2": "3/4oz Gin",
         "ingredient3": "3/4 Maraschino Liquor",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "drinkName": "Little John",
-        "image": "",
+        "image": "src/assets/LittleJohn.jpg",
         "ingredient1": "1 1/2oz Gin",
         "ingredient2": "1/2oz Blood Orange Juice",
         "ingredient3": "1/4oz Lemon Juice",
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "drinkName": "Lumiere",
-        "image": "",
+        "image": "src/assets/Lumiere.png",
         "ingredient1": "1oz Elderflower Liquor",
         "ingredient2": "1 1/2oz Gin",
         "ingredient3": "3/4oz Green Chartreuse",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "drinkName": "Gin Martini",
-        "image": "",
+        "image": "src/assets/GinMartini.jpg",
         "ingredient1": "2 1/2oz Gin",
         "ingredient2": "1/2oz Olive Brine",
         "ingredient3": "1/8oz Dry Vermouth",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "drinkName": "Queen Victoria",
-        "image": "",
+        "image": "src/assets/QueenVictoria.jpg",
         "ingredient1": "2oz Gin",
         "ingredient2": "1/4oz Creme de Violette",
         "ingredient3": "3/4oz Lemon Juice",
@@ -114,12 +114,12 @@
         "ingredient5": "1 Egg White",
         "ingredient6": "",
         "instructions": "Add all ingredients to cocktail shaker, add ice on top. Shake well and double strain into cocktail glass.",
-        "garnishOptions": "Sprig of Dried Lavender"
+        "garnishOptions": "1 Sprig of Dried Lavender"
     },
     {
         "id": 10,
         "drinkName": "Rosemary French 75",
-        "image": "",
+        "image": "src/assets/RosemaryFrench.jpg",
         "ingredient1": "2oz Dry Gin",
         "ingredient2": "1/2oz Lemon Juice",
         "ingredient3": "1/4oz Rosemary Simple Syrup",
@@ -127,6 +127,6 @@
         "ingredient5": "",
         "ingredient6": "",
         "instructions": "Add all ingredients, except the prosecco, into a cocktail shaker. Shake well and strain into champagne flute. Add prosecco to flute and stir.",
-        "garnishOptions": "Fresh Rosemary Sprig"
+        "garnishOptions": "1 Fresh Rosemary Sprig"
     }
 ]
