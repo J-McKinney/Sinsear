@@ -40,6 +40,19 @@
     },
     {
         "id": 4,
+        "drinkName": "Gin Martini",
+        "image": "src/assets/GinMartini.jpg",
+        "ingredient1": "2 1/2oz Gin",
+        "ingredient2": "1/2oz Olive Brine",
+        "ingredient3": "1/8oz Dry Vermouth",
+        "ingredient4": "Pitted Olives",
+        "ingredient5": "Feta Cheese or Goat Cheese",
+        "ingredient6": "1 Lemon Twist",
+        "instructions": "Stuff olives with your favorite cheese. Add vermouth to chilled glass and return to freezer. Add gin, olive brine and ice to cocktail shaker. Shake very well. Discard vermouth from chilled glass. Swipe lemon twist around the glass rim. Strain shaker into glass.",
+        "garnishOptions": "Olives, Stuffed Olives"
+    },
+    {
+        "id": 5,
         "drinkName": "La Poire",
         "image": "src/assets/LaPoire.jpg",
         "ingredient1": "2oz Whiskey",
@@ -52,7 +65,7 @@
         "garnishOptions": "Sprig of Baby's Breathe"
     },
     {
-        "id": 5,
+        "id": 6,
         "drinkName": "Last Word",
         "image": "src/assets/LastWord.jpg",
         "ingredient1": "3/4oz Green Chartreuse",
@@ -65,7 +78,7 @@
         "garnishOptions": "Cherry"
     },
     {
-        "id": 6,
+        "id": 7,
         "drinkName": "Little John",
         "image": "src/assets/LittleJohn.jpg",
         "ingredient1": "1 1/2oz Gin",
@@ -78,7 +91,7 @@
         "garnishOptions": "Sprig of Dried Lavender"
     },
     {
-        "id": 7,
+        "id": 8,
         "drinkName": "Lumiere",
         "image": "src/assets/Lumiere.png",
         "ingredient1": "1oz Elderflower Liquor",
@@ -89,19 +102,6 @@
         "ingredient6": "",
         "instructions": "Add all ingredients into a mixing glass with ice. Stir completely and strain into a chilled coupe.",
         "garnishOptions": "1 Lime Wedge"
-    },
-    {
-        "id": 8,
-        "drinkName": "Gin Martini",
-        "image": "src/assets/GinMartini.jpg",
-        "ingredient1": "2 1/2oz Gin",
-        "ingredient2": "1/2oz Olive Brine",
-        "ingredient3": "1/8oz Dry Vermouth",
-        "ingredient4": "Pitted Olives",
-        "ingredient5": "Feta Cheese or Goat Cheese",
-        "ingredient6": "1 Lemon Twist",
-        "instructions": "Stuff olives with your favorite cheese. Add vermouth to chilled glass and return to freezer. Add gin, olive brine and ice to cocktail shaker. Shake very well. Discard vermouth from chilled glass. Swipe lemon twist around the glass rim. Strain shaker into glass.",
-        "garnishOptions": "Olives, Stuffed Olives"
     },
     {
         "id": 9,
