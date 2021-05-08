@@ -2,7 +2,7 @@
     {
         "id": 1,
         "drinkName": "Aviation",
-        "image": "src/assets/Aviation.jpg",
+        "image": "/assets/Aviation.jpg",
         "ingredient1": "2oz Gin",
         "ingredient2": " 1/2oz (or less) Maraschino",
         "ingredient3": "1/2oz Creme de Violette",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "drinkName": "Deoch Te",
-        "image": "src/assets/DeochTe.jpg",
+        "image": "/assets/DeochTe.jpg",
         "ingredient1": "2oz Gin",
         "ingredient2": "1 Bar Spoon of Honey",
         "ingredient3": "1 Lemon Wedge",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "drinkName": "Gin Basil Smash",
-        "image": "src/assets/GinBasil.jpg",
+        "image": "/assets/GinBasil.jpg",
         "ingredient1": "1 1/2oz Gin",
         "ingredient2": "1/2oz Simple Syrup",
         "ingredient3": "1/2oz Lemon Juice",
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "drinkName": "Gin Martini",
-        "image": "src/assets/GinMartini.jpg",
+        "image": "/assets/GinMartini.jpg",
         "ingredient1": "2 1/2oz Gin",
         "ingredient2": "1/2oz Olive Brine",
         "ingredient3": "1/8oz Dry Vermouth",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "drinkName": "La Poire",
-        "image": "src/assets/LaPoire.jpg",
+        "image": "/assets/LaPoire.jpg",
         "ingredient1": "2oz Whiskey",
         "ingredient2": "1/2oz Spiced Pears",
         "ingredient3": "1/2oz Elderflower Liquor",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "drinkName": "Last Word",
-        "image": "src/assets/LastWord.jpg",
+        "image": "/assets/LastWord.jpg",
         "ingredient1": "3/4oz Green Chartreuse",
         "ingredient2": "3/4oz Gin",
         "ingredient3": "3/4 Maraschino Liquor",
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "drinkName": "Little John",
-        "image": "src/assets/LittleJohn.jpg",
+        "image": "/assets/LittleJohn.jpg",
         "ingredient1": "1 1/2oz Gin",
         "ingredient2": "1/2oz Blood Orange Juice",
         "ingredient3": "1/4oz Lemon Juice",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "drinkName": "Lumiere",
-        "image": "src/assets/Lumiere.png",
+        "image": "/assets/Lumiere.png",
         "ingredient1": "1oz Elderflower Liquor",
         "ingredient2": "1 1/2oz Gin",
         "ingredient3": "3/4oz Green Chartreuse",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "drinkName": "Queen Victoria",
-        "image": "src/assets/QueenVictoria.jpg",
+        "image": "/assets/QueenVictoria.jpg",
         "ingredient1": "2oz Gin",
         "ingredient2": "1/4oz Creme de Violette",
         "ingredient3": "3/4oz Lemon Juice",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "drinkName": "Rosemary French 75",
-        "image": "src/assets/RosemaryFrench.jpg",
+        "image": "/assets/RosemaryFrench.jpg",
         "ingredient1": "2oz Dry Gin",
         "ingredient2": "1/2oz Lemon Juice",
         "ingredient3": "1/4oz Rosemary Simple Syrup",

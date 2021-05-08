@@ -28,6 +28,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./Pages/About";
 import Home from "./Pages/Home";
 import Contact from "./Pages/Contact";
+import Error from "./Pages/Error";
 import styling from "./App.css";
 
 function App() {
