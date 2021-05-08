@@ -1,5 +1,6 @@
 .carouselWrapper {
   text-align: center;
+  position: static;
 }
 
 .swiper {

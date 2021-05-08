@@ -1,16 +1,43 @@
 .wrapper {
-  /* height: 8vmin; */
   background-color: #295f2d;
-  /* position: relative; */
-  /* top: 0; */
-  /* border-radius: 0px 0px 10px 10px; */
   width: 100%;
   height: auto;
   display: flex;
   flex-direction: column;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: static;
 }
 
-.container {
+#container {
   width: 100%;
   height: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+/* unvisited link */
+.link:link {
+  color: black;
+}
+
+/* visited link */
+.link:visited {
+  color: black;
+}
+
+/* mouse over link */
+.link:hover {
+  color: black;
+}
+
+/* selected link */
+.link:active {
+  color: black;
 }

@@ -1,4 +1,4 @@
-# Giniper Berry Inc.
+# Sinséar Gin Inc.
 
 ## Gin Cocktails
 
