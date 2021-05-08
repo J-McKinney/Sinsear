@@ -5,10 +5,14 @@ function Navbar(props) {
   return (
     <>
       <div className={styling.wrapper}>
-        <div className={styling.container}>
-          <div className={styling.row}>
-            <div id={styling.col} className="col-md-6"></div>
-            <div id={styling.col} className="col-md-6"></div>
+        <div className="container">
+          <div className="row">
+            <div className="col-md-6">
+              <h3>Hello</h3>
+            </div>
+            <div className="col-md-6">
+              <h3>World</h3>
+            </div>
           </div>
         </div>
       </div>

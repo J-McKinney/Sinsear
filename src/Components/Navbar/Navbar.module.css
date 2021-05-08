@@ -1,4 +1,16 @@
 .wrapper {
-  height: 8vmin;
-  background-color: blue;
+  /* height: 8vmin; */
+  background-color: #295f2d;
+  /* position: relative; */
+  /* top: 0; */
+  /* border-radius: 0px 0px 10px 10px; */
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  width: 100%;
+  height: auto;
 }

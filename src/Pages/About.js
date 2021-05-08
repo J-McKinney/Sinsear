@@ -7,8 +7,8 @@ class About extends Component {
   render() {
     return (
       <>
+        <Navbar />
         <Wrapper>
-          <Navbar />
           <Container>
             <h1>About</h1>
           </Container>
