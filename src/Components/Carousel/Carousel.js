@@ -20,7 +20,11 @@ class Carousel extends Component {
     drinks,
   };
 
-  componentDidMount() {}
+  componentDidMount() {
+    console.log(
+      "https://www.canva.com/design/DAEdwHEEwKE/jaDAtadAqyBX3yUSh6JKzg/view?utm_content=DAEdwHEEwKE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"
+    );
+  }
   componentDidUpdate() {}
 
   render() {
@@ -37,7 +41,7 @@ class Carousel extends Component {
             }}
           >
             {this.state.drinks.map((drink) => (
-              <SwiperSlide>
+              <SwiperSlide className={styling.swiperSlide}>
                 <img
                   alt=""
                   className={styling.img}
