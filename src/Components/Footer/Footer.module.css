@@ -1,15 +1,44 @@
-/* .wrapper {
+.wrapper {
   background-color: #295f2d;
   width: 100%;
   height: auto;
   display: flex;
   flex-direction: column;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  margin-top: 10px;
   position: static;
 }
 
 .container {
   width: 100%;
   height: auto;
-} */
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+/* unvisited link */
+.link:link {
+  color: black;
+}
+
+/* visited link */
+.link:visited {
+  color: black;
+}
+
+/* mouse over link */
+.link:hover {
+  color: black;
+}
+
+/* selected link */
+.link:active {
+  color: black;
+}
