@@ -16,7 +16,7 @@
 
 .link {
   text-decoration: none;
-  color: black;
+  color: white;
   text-align: center;
   justify-content: center;
   align-items: center;
@@ -24,20 +24,20 @@
 
 /* unvisited link */
 .link:link {
-  color: black;
+  color: white;
 }
 
 /* visited link */
 .link:visited {
-  color: black;
+  color: white;
 }
 
 /* mouse over link */
 .link:hover {
-  color: black;
+  color: white;
 }
 
 /* selected link */
 .link:active {
-  color: black;
+  color: white;
 }

@@ -11,7 +11,7 @@ class Contact extends Component {
         <Wrapper>
           <Navbar />
           <Container>
-            <h1>Contact</h1>
+            <h1 style={{ textAlign: "center" }}>Contact Us</h1>
           </Container>
           <Footer />
         </Wrapper>

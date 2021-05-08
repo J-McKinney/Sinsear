@@ -11,7 +11,7 @@ class About extends Component {
         <Wrapper>
           <Navbar />
           <Container>
-            <h1>About</h1>
+            <h1 style={{ textAlign: "center" }}>About Us</h1>
           </Container>
           <Footer />
         </Wrapper>

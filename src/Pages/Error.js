@@ -11,7 +11,19 @@ class Error extends Component {
         <Wrapper>
           <Navbar />
           <Container>
-            <h1>Error</h1>
+            <h1 style={{ textAlign: "center" }}>Error</h1>
+            <h3
+              style={{
+                textAlign: "center",
+                padding: "20px 60px 20px 60px",
+                display: "flex",
+                flexDirection: "row",
+              }}
+            >
+              Sorry, an error has occured while trying to find your page. Please
+              refresh or click on our Navigation Bar to find where you are
+              trying to go.
+            </h3>
           </Container>
           <Footer />
         </Wrapper>
