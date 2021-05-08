@@ -20,11 +20,7 @@ class Carousel extends Component {
     drinks,
   };
 
-  componentDidMount() {
-    console.log(
-      "https://www.canva.com/design/DAEdwHEEwKE/jaDAtadAqyBX3yUSh6JKzg/view?utm_content=DAEdwHEEwKE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"
-    );
-  }
+  componentDidMount() {}
   componentDidUpdate() {}
 
   render() {
@@ -39,11 +35,13 @@ class Carousel extends Component {
             pagination={{
               clickable: true,
             }}
+            grabCursor={true}
+            height={200}
           >
             {this.state.drinks.map((drink) => (
               <SwiperSlide className={styling.swiperSlide}>
                 <img
-                  alt=""
+                  alt="Gin Drinks"
                   className={styling.img}
                   id={drink.id}
                   key={drink.id}

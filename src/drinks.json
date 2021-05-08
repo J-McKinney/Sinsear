@@ -1,9 +1,8 @@
 [
-    
     {
         "id": 1,
         "drinkName": "Queen Victoria",
-        "image": "/assets/QueenVictoria.jpg",
+        "image": "/images/1.png",
         "ingredient1": "2oz Gin",
         "ingredient2": "1/4oz Creme de Violette",
         "ingredient3": "3/4oz Lemon Juice",
@@ -12,12 +11,12 @@
         "ingredient6": "",
         "instructions": "Add all ingredients to cocktail shaker, add ice on top. Shake well and double strain into cocktail glass.",
         "garnishOptions": "1 Sprig of Dried Lavender",
-        "order": "1"
+        "order": "https://www.canva.com/design/DAEdwHEEwKE/jaDAtadAqyBX3yUSh6JKzg/view?utm_content=DAEdwHEEwKE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"
     },
     {
         "id": 2,
         "drinkName": "Little John",
-        "image": "/assets/LittleJohn.jpg",
+        "image": "/images/2.png",
         "ingredient1": "1 1/2oz Gin",
         "ingredient2": "1/2oz Blood Orange Juice",
         "ingredient3": "1/4oz Lemon Juice",
@@ -25,13 +24,12 @@
         "ingredient5": "1 Bar Spoon of Honey",
         "ingredient6": "",
         "instructions": "Add all ingredients into cocktail shaker. Dry shake. Fill with ice and shake again. Strain into cocktail glass.",
-        "garnishOptions": "Sprig of Dried Lavender",
-        "order": "2"
+        "garnishOptions": "Sprig of Dried Lavender"
     },
     {
         "id": 3,
         "drinkName": "Deoch Te",
-        "image": "/assets/DeochTe.jpg",
+        "image": "/images/3.png",
         "ingredient1": "2oz Gin",
         "ingredient2": "1 Bar Spoon of Honey",
         "ingredient3": "1 Lemon Wedge",
@@ -39,13 +37,12 @@
         "ingredient5": "Your Favorite Cider",
         "ingredient6": "",
         "instructions": "Brew one cup of hot tea. Add honey and squeeze in lemon. Slowly stir in gin and pour over cider.",
-        "garnishOptions": "Lemon Twist",
-        "order": "3"
+        "garnishOptions": "Lemon Twist"
     },
     {
         "id": 4,
         "drinkName": "Aviation",
-        "image": "/assets/Aviation.jpg",
+        "image": "/images/4.png",
         "ingredient1": "2oz Gin",
         "ingredient2": " 1/2oz (or less) Maraschino",
         "ingredient3": "1/2oz Creme de Violette",
@@ -53,13 +50,12 @@
         "ingredient5": "Variations: Egg White or Bar Spoon of Simple Syrup",
         "ingredient6": "",
         "instructions": "Add all ingredients into cocktail shaker. Fill with ice. Shake well and strain into cocktail glass.",
-        "garnishOptions": "Cherry, Lavender, Lemon Thyme",
-        "order": "4"
+        "garnishOptions": "Cherry, Lavender, Lemon Thyme"
     },
     {
         "id": 5,
         "drinkName": "La Poire",
-        "image": "/assets/LaPoire.jpg",
+        "image": "/images/5.png",
         "ingredient1": "2oz Whiskey",
         "ingredient2": "1/2oz Spiced Pears",
         "ingredient3": "1/2oz Elderflower Liquor",
@@ -67,13 +63,12 @@
         "ingredient5": "Seltzer Water",
         "ingredient6": "",
         "instructions": "Add all ingredients to cocktail shaker, add ice and stir. Do not shake. Strain into chilled glass. Top with setlzer water to taste.",
-        "garnishOptions": "Sprig of Baby's Breathe",
-        "order": "5"
+        "garnishOptions": "Sprig of Baby's Breathe"
     },
     {
         "id": 6,
         "drinkName": "Gin Basil Smash",
-        "image": "/assets/GinBasil.jpg",
+        "image": "/images/6.png",
         "ingredient1": "1 1/2oz Gin",
         "ingredient2": "1/2oz Simple Syrup",
         "ingredient3": "1/2oz Lemon Juice",
@@ -81,13 +76,12 @@
         "ingredient5": "",
         "ingredient6": "",
         "instructions": "Muddle basil in cocktail shaker. Fill with ice, add remaining ingredients. Shake well. Double strain into an ice filled rocks glass.",
-        "garnishOptions": "Basil Leaflet",
-        "order": "6"
+        "garnishOptions": "Basil Leaflet"
     },
     {
         "id": 7,
         "drinkName": "Lumiere",
-        "image": "/assets/Lumiere.png",
+        "image": "/images/7.png",
         "ingredient1": "1oz Elderflower Liquor",
         "ingredient2": "1 1/2oz Gin",
         "ingredient3": "3/4oz Green Chartreuse",
@@ -95,13 +89,12 @@
         "ingredient5": "Dash of Orange Bitters",
         "ingredient6": "",
         "instructions": "Add all ingredients into a mixing glass with ice. Stir completely and strain into a chilled coupe.",
-        "garnishOptions": "1 Lime Wedge",
-        "order": "7"
+        "garnishOptions": "1 Lime Wedge"
     },
     {
         "id": 8,
         "drinkName": "Gin Martini",
-        "image": "/assets/GinMartini.jpg",
+        "image": "/images/8.png",
         "ingredient1": "2 1/2oz Gin",
         "ingredient2": "1/2oz Olive Brine",
         "ingredient3": "1/8oz Dry Vermouth",
@@ -109,13 +102,12 @@
         "ingredient5": "Feta Cheese or Goat Cheese",
         "ingredient6": "1 Lemon Twist",
         "instructions": "Stuff olives with your favorite cheese. Add vermouth to chilled glass and return to freezer. Add gin, olive brine and ice to cocktail shaker. Shake very well. Discard vermouth from chilled glass. Swipe lemon twist around the glass rim. Strain shaker into glass.",
-        "garnishOptions": "Olives, Stuffed Olives",
-        "order": "8"
+        "garnishOptions": "Olives, Stuffed Olives"
     },
     {
         "id": 9,
         "drinkName": "Last Word",
-        "image": "/assets/LastWord.jpg",
+        "image": "/images/9.png",
         "ingredient1": "3/4oz Green Chartreuse",
         "ingredient2": "3/4oz Gin",
         "ingredient3": "3/4 Maraschino Liquor",
@@ -123,13 +115,12 @@
         "ingredient5": "",
         "ingredient6": "",
         "instructions": "Add all ingredients into cocktail shaker. Fill with ice. Shake well and strain into cocktail glass.",
-        "garnishOptions": "Cherry",
-        "order": "9"
+        "garnishOptions": "Cherry"
     },
     {
         "id": 10,
         "drinkName": "Rosemary French 75",
-        "image": "/assets/RosemaryFrench.jpg",
+        "image": "/images/10.png",
         "ingredient1": "2oz Dry Gin",
         "ingredient2": "1/2oz Lemon Juice",
         "ingredient3": "1/4oz Rosemary Simple Syrup",
@@ -137,7 +128,6 @@
         "ingredient5": "",
         "ingredient6": "",
         "instructions": "Add all ingredients, except the prosecco, into a cocktail shaker. Shake well and strain into champagne flute. Add prosecco to flute and stir.",
-        "garnishOptions": "1 Fresh Rosemary Sprig",
-        "order": "10"
+        "garnishOptions": "1 Fresh Rosemary Sprig"
     }
 ]
