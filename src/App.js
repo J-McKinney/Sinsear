@@ -35,9 +35,9 @@ function App() {
   return (
     <>
       <div className={styling.App}>
-        <Router>
+        <Router basename="/">
           <Switch>
-            <Route path="/" exact component={About} />
+            <Route path="/Sinsear" exact component={About} />
             <Route path="/Home/" component={Home} />
             <Route path="/Contact/" component={Contact} />
             <Route path="*" component={Error} />
