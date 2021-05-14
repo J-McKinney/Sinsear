@@ -1,8 +1,8 @@
 .firstWrapper {
-  padding: 0 0 10px 0;
-  /* border: 10px solid blue; */
-  background-color: blue;
-  z-index: 100 !important;
+  padding: 0 0 8px 0;
+  /* background-color: blue; */
+  background-image: linear-gradient(to right, rgb(57, 133, 62, 0.5), rgb(41, 95, 45, 0.75), rgb(25, 58, 28, 1));
+  /* #295f2d */
 }
 
 .wrapper {
