@@ -21,8 +21,8 @@ function Navbar(props) {
                 </Link>
               </div>
               <div id={styling.colFour} className="col-md-2">
-                <Link to="/Home" className={styling.link}>
-                  <h3>Home</h3>
+                <Link to="/Recipes" className={styling.link}>
+                  <h3>Recipes</h3>
                 </Link>
               </div>
               <div id={styling.colFive} className="col-md-2">

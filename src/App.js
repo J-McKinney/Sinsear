@@ -26,7 +26,7 @@
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./Pages/About";
-import Home from "./Pages/Home";
+import Recipes from "./Pages/Recipes";
 import Contact from "./Pages/Contact";
 import Error from "./Pages/Error";
 import styling from "./App.css";
@@ -38,7 +38,7 @@ function App() {
         <Router basename="/Sinsear">
           <Switch>
             <Route exact path="/" component={About} />
-            <Route exact path="/Home" component={Home} />
+            <Route exact path="/Recipes" component={Recipes} />
             <Route exact path="/Contact" component={Contact} />
             <Route exact path="*" component={Error} />
           </Switch>

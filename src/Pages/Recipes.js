@@ -12,7 +12,7 @@ class Home extends Component {
         <Wrapper>
           <Navbar />
           <Container>
-            <h1 style={{ textAlign: "center" }}>Home</h1>
+            <h1 style={{ textAlign: "center" }}>Recipes</h1>
             <Carousel />
           </Container>
           <Footer />

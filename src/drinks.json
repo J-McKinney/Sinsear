@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "key": 1,
         "drinkName": "Queen Victoria",
         "image": "./images/1.png",
