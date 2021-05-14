@@ -20,8 +20,12 @@ class Carousel extends Component {
     drinks,
   };
 
-  componentDidMount() {}
-  componentDidUpdate() {}
+  componentDidMount() {
+    // console.log("Mount: ");
+  }
+  componentDidUpdate() {
+    // console.log("update: ");
+  }
 
   render() {
     return (
@@ -38,13 +42,13 @@ class Carousel extends Component {
             grabCursor={true}
             height={200}
           >
-            {this.state.drinks.map((drink) => (
+            {this.state.drinks.map((drink, index) => (
               <SwiperSlide className={styling.swiperSlide}>
                 <img
                   alt="Gin Drinks"
                   className={styling.img}
                   id={drink.id}
-                  key={drink.id}
+                  key={drink.index}
                   src={drink.image}
                 />
               </SwiperSlide>

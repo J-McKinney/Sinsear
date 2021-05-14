@@ -1,6 +1,7 @@
 {
-  "name": "giniperberry",
+  "name": "Sinsear",
   "homepage": "https://j-mckinney.github.io/Sinsear/",
+  "Author": "Jesse McKinney",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

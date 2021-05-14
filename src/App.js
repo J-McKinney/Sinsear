@@ -35,12 +35,12 @@ function App() {
   return (
     <>
       <div className={styling.App}>
-        <Router basename="/">
+        <Router basename="/Sinsear">
           <Switch>
-            <Route path="/Sinsear" exact component={About} />
-            <Route path="/Home/" component={Home} />
-            <Route path="/Contact/" component={Contact} />
-            <Route path="*" component={Error} />
+            <Route exact path="/" component={About} />
+            <Route exact path="/Home" component={Home} />
+            <Route exact path="/Contact" component={Contact} />
+            <Route exact path="*" component={Error} />
           </Switch>
         </Router>
       </div>
